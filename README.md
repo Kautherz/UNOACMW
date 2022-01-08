@@ -5,7 +5,7 @@
 2. [The Development Team](#The-Development-Team)
 3. [Product Spec](#Product-Spec)
 4. [Wireframes](#Wireframes)
-5. [Schema](#Schema)
+5. [Installation and Setup](#Installation-and-Setup)
 
 ## Overview
 The website for the nationally accredited UNO chapter of the ACM-W.
