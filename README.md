@@ -1,9 +1,10 @@
 # Website of The University of New Orleans Association for Computing Machinery - Women's Chapter:
 
+The website for the nationally accredited UNO chapter of the ACM-W.
 
 
-# Features
-- [] A fully functional 'Contact Us' section to allow buyers to reach out to the owners with ease.
+# Features (add more features)
+- [] A fully functional 'Contact Us' section to allow elligible CS students to contact the UNO ACM-W
 
 # Installation and Setup
 - [] The project was created with only raw HTML, CSS, and JavaScript.
