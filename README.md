@@ -19,14 +19,14 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 - [] A fully functional 'Contact Us' section to allow elligible CS students to contact the UNO ACM-W
 
 ### 2. Screen Archetypes
+* Home Screen: 
+  * explain what is on home screen
+
 
 ### 3. Navigation
-* Home Screen:
-* ...
+
 
 **Tab Navigation** (Tab to Screen)
-
-* Home Tab
 
 
 **Flow Navigation** (Screen to Screen)
