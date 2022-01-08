@@ -14,8 +14,8 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 - Kauther Zeini
 - Huong Nguyen
 
-## Product Spec
-### 1. User Stories (need to add on)
+## Product Spec (need to add on to all of these)
+### 1. User Stories 
 - [] A fully functional 'Contact Us' section to allow elligible CS students to contact the UNO ACM-W
 
 ### 2. Screen Archetypes
