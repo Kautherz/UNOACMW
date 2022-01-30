@@ -17,7 +17,7 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 ## Product Spec (need to add on to all of these)
 
 ### 1. Main User Stories 
-- [x] Home Page (includes our mission statement, goals, and past events/what we've done)
+- [] Home Page (includes our mission statement, goals, and past events/what we've done)
 - [] Meet the Team Page (ACM-W Board Members and Advisors)
 - [] Resources Page (includes Schilarships, Coding References, and Concentrations)
 - [] 'Contact Us' Page (allow elligible CS students to contact the UNO ACM-W gmail account) 
