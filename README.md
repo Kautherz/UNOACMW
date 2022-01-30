@@ -25,10 +25,6 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 
 ### 3. Navigation
 
-
-**Tab Navigation** (Tab to Screen)
-
-
 **Flow Navigation** (Screen to Screen)
 
 
