@@ -15,15 +15,22 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 - Huong Nguyen
 
 ## Product Spec (need to add on to all of these)
-### 1. User Stories 
-- [] A fully functional 'Contact Us' section to allow elligible CS students to contact the UNO ACM-W
 
-### 2. Screen Archetypes
+### 1. Main User Stories 
+- [] Home Page (includes our mission statement, goals, and past events/what we've done)
+- [] Meet the Team Page (ACM-W Board Members and Advisors)
+- [] Resources Page (includes Schilarships, Coding References, and Concentrations)
+- [] 'Contact Us' Page (allow elligible CS students to contact the UNO ACM-W gmail account) 
+
+### 2. Possible Additional User Stores 
+- [] Events page (list all the events for ACM-W (updated each semester) and also include prominent past events with pictures)
+- [] Alumni page (focus on ACM-W Alumni, create an email list) 
+
+### 3. Screen Archetypes
 * Home Screen: 
   * explain what is on home screen
 
-
-### 3. Navigation
+### 4. Navigation
 
 **Flow Navigation** (Screen to Screen)
 
