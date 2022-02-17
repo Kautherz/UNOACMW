@@ -39,19 +39,19 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 
 ## Wireframes
 
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Home1.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Home2.pngg" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/AboutUs1.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/AboutUs2.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/MeetTheTeam1.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/MeetTheTeam2.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/MeetTheTeam3.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Scholarships.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/CodingReferences.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Concentrations.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Concentrations2.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Contact.png" width=100>
-<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/ComingSoon.png" width=100>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Home1.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Home2.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/AboutUs1.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/AboutUs2.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/MeetTheTeam1.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/MeetTheTeam2.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/MeetTheTeam3.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Scholarships.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/CodingReferences.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Concentrations.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Concentrations2.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Contact.png" width=200>
+<img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/ComingSoon.png" width=200>
 
 
 ## Installation and Setup
