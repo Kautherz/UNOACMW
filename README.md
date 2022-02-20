@@ -36,7 +36,6 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 
 
 
-
 ## Wireframes
 
 Home: <img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Home1.png" width=200> , <img src="https://github.com/Kautherz/UNOACMW/blob/main/wireframes/Home2.png" width=200>
