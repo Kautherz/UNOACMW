@@ -12,7 +12,7 @@ The website for the nationally accredited UNO chapter of the ACM-W.
 
 ## The Development Team
 - Kauther Zeini
-- Huong Nguyen
+- Huong Nguyen 
 
 ## Product Spec (need to add on to all of these)
 
