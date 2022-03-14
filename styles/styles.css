@@ -65,3 +65,37 @@ html, body, section {
     flex: 1;
     padding: 1rem;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #298ab0;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: 200;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(245, 243, 243);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(189, 191, 192);
+    color: white;
+  }
+
+
+
