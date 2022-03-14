@@ -8,7 +8,7 @@
 5. [Installation and Setup](#Installation-and-Setup)
 
 ## Overview
-The website for the nationally accredited UNO chapter of the ACM-W.
+The website for the nationally accredited UNO chapter of the ACM-W. The website can be found [here](https://kautherz.github.io/UNOACMW/).
 
 ## The Development Team
 - Kauther Zeini
