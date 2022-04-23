@@ -1,0 +1,23 @@
+@import "fonts.css";
+
+
+/* Colors to be used later */
+/*--isabelline: #f1ebe5ff;*/
+/*--star-command-blue: #367ca9ff;*/
+/*--dark-lava: #473c38ff;*/
+/*--olive-drab-7: #423f23ff;*/
+
+/*Background Colors*/
+.bg-beige{
+    background-color:  #f1ebe5ff;
+}
+
+/*Font Colors*/
+.text-brown{
+    color: #473c38ff;
+}
+
+.text-blue{
+    color: #367ca9ff;
+}
+
