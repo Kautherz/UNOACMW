@@ -1,0 +1,118 @@
+@import "fonts.css";
+
+
+/* Colors to be used later */
+/*--isabelline: #f1ebe5ff;*/
+/*--star-command-blue: #367ca9ff;*/
+/*--dark-lava: #473c38ff;*/
+/*--olive-drab-7: #423f23ff;*/
+
+/*Background Colors*/
+.bg-beige{
+    background-color:  #f1ebe5ff;
+}
+
+/*Font Colors*/
+.text-brown{
+    color: #473c38ff;
+}
+
+.text-blue{
+    color: #367ca9ff;
+}
+
+/*Nav Bar Properties*/
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.2em;
+  line-height: 1.6;
+  background: #ccc;
+  overflow-x: hidden;
+}
+
+label .menu {
+  position: absolute;
+  right: -100px;
+  top: -100px;
+  z-index: 100;
+  width: 200px;
+  height: 200px;
+  background: #fff;
+  border-radius: 50% 50% 50% 50%;
+  transition: 0.5s ease-in-out;
+  box-shadow: 0 0 0 0 #fff, 0 0 0 0 #fff;
+  cursor: pointer;
+}
+label .hamburger {
+  position: absolute;
+  top: 135px;
+  left: 50px;
+  width: 30px;
+  height: 2px;
+  background: #298ab0;
+  display: block;
+  transform-origin: center;
+  transition: 0.5s ease-in-out;
+}
+label .hamburger:after, label .hamburger:before {
+  transition: 0.5s ease-in-out;
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #298ab0;
+}
+label .hamburger:before {
+  top: -10px;
+}
+label .hamburger:after {
+  bottom: -10px;
+}
+label input {
+  display: none;
+}
+label input:checked + .menu {
+  box-shadow: 0 0 0 100vw #fff, 0 0 0 100vh rgba(207, 205, 205, 0.651);
+  border-radius: 0;
+}
+label input:checked + .menu .hamburger {
+  transform: rotate(45deg);
+}
+label input:checked + .menu .hamburger:after {
+  transform: rotate(90deg);
+  bottom: 0;
+}
+label input:checked + .menu .hamburger:before {
+  transform: rotate(90deg);
+  top: 0;
+}
+label input:checked + .menu + ul {
+  opacity: 1;
+}
+label ul {
+  z-index: 200;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: 0.25s 0s ease-in-out;
+}
+label a {
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 1em;
+  display: block;
+  color: #298ab0;
+  text-decoration: none;
+}
