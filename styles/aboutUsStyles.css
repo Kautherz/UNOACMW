@@ -1,0 +1,14 @@
+html, body, section {
+    height: auto;
+}
+
+.italic-title {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 34px;
+    color: rgb(71, 60, 56);
+}
+
+.uno-img {
+    object-fit: cover;
+}
