@@ -35,6 +35,16 @@
     margin-block-end: 0.5rem;
 }
 
+.shared-page-header{
+    font-family: playfair-display-regular, sans-serif;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 100px;
+    color: rgb(54, 124, 169);
+    text-align: center;
+    
+}
+
 .subheader{
     font-size: .75rem;
     text-align: center;
@@ -46,10 +56,6 @@ div {
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-html, body, section {
-    height: 100%;
 }
 
 .container {
