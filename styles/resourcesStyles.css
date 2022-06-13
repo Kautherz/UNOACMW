@@ -1,0 +1,18 @@
+.resources-text{
+    width: 700 px;
+    font-family: playfair-display-regular, sans-serif;
+    font-size: 25px;
+    color: #473c38;
+    text-align: center;
+    padding-bottom: 65px;
+}
+
+.div-top-padding{
+    padding-top: 55px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+a:link {
+    color: #473c38;
+  }
