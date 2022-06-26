@@ -15,4 +15,51 @@
 
 a:link {
     color: #473c38;
-  }
+}
+
+.resources-container {
+    /* align-items: center;
+    align-content: center;
+    top: 80px;
+    padding-bottom: 90px;
+    font-weight: 300;
+    font-size: 22px;
+    margin: 8px;
+
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: none;
+    padding-top: 10px; */
+    top: 0;
+    position: fixed;
+}
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+div.spacer
+{
+    font-size: 0; 
+    height: 45px;
+    line-height: 0;
+}
