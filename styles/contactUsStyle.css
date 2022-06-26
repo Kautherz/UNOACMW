@@ -1,0 +1,116 @@
+@import "fonts.css";
+
+
+/* Colors to be used later */
+/*--isabelline: #f1ebe5ff;*/
+/*--star-command-blue: #367ca9ff;*/
+/*--dark-lava: #473c38ff;*/
+/*--olive-drab-7: #423f23ff;*/
+
+/*Background Colors*/
+.bg-beige{
+    background-color:  #f1ebe5ff;
+}
+
+/*Font Colors*/
+.text-brown{
+    color: #473c38ff;
+}
+
+.text-blue{
+    color: #367ca9ff;
+}
+
+.shared-page-header,
+header {
+  font-family: playfair-display-regular, sans-serif;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100px;
+  color: rgb(54, 124, 169);
+  text-align: center;
+}
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#contact-form {
+  max-width: 1000px;
+  text-align: center;
+  margin: 50px auto;
+}
+#contact-form input, #contact-form textarea {
+  border: 0;
+  outline: 0;
+  padding: 1em;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  margin-top: 1em;
+  font-family: sans-serif;
+  -moz-box-shadow: 0 1px 1px #367ca9ff(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 1px #367ca9ff(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px #367ca9ff(0, 0, 0, 0.1);
+  resize: none;
+}
+#contact-form input:focus, #contact-form textarea:focus {
+  -moz-box-shadow: 0 0px 2px #473c38ff !important;
+  -webkit-box-shadow: 0 0px 2px #473c38ff !important;
+  box-shadow: 0 0px 2px #473c38ff !important;
+}
+#input-submit {
+  color: #367ca9ff;
+  background: white;
+  cursor: pointer;
+  width: 1000px;
+}
+
+#contact-form textarea {
+  height: 200px;
+}
+
+.half {
+  float: left;
+  width: 48%;
+  margin-bottom: 1em;
+}
+
+.right {
+  width: 50%;
+}
+
+.left {
+  margin-right: 2%;
+}
+
+@media (max-width: 480px) {
+  .half {
+    width: 100%;
+    float: none;
+    margin-bottom: 0;
+  }
+}
+/* Clearfix */
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+
+
+
+
