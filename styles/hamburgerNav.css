@@ -99,7 +99,9 @@ label input:checked + .menu .hamburger:before {
 }
 label input:checked + .menu + ul {
   opacity: 1;
+  pointer-events: visible;
 }
+
 label ul {
   z-index: 200;
   position: fixed;
@@ -108,7 +110,9 @@ label ul {
   transform: translate(-50%, -50%);
   opacity: 0;
   transition: 0.25s 0s ease-in-out;
+  pointer-events: none;
 }
+
 label a {
   font-family: 'Courier New', Courier, monospace;
   margin-bottom: 1em;
