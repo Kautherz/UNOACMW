@@ -63,3 +63,13 @@ div.spacer
     height: 45px;
     line-height: 0;
 }
+
+.resources-header{
+  font-family: playfair-display-regular, sans-serif;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100px;
+  color: rgb(54, 124, 169);
+  text-align: center;
+  padding-top: 30px;
+}
